@@ -11,7 +11,8 @@
   </head>
   <body>
     <?php
-		echo "Hello World, i have PHP and Bootstrap.";
+		echo "<h1>Hello World.</h1>";
 	?>
+	<?= "<h2>PHP and Bootstrap.</h2>";?>
   </body>
 </html>
